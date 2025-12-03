@@ -13,12 +13,10 @@ Built with **Databricks SQL** and designed for reproducibility and open collabor
 emissions-dashboard/ 
 ├── README.md 
 ├── queries.sql 
-├── notebooks/ 
-│ └── emissions_dashboard.ipynb 
+├── emissions_dashboard.ipynb 
 ├── schema.md 
 ├── sample_data.csv 
 ├── media/ 
-│ ├── map_visualization.png 
 │ ├── scatter_plot.png
 │ └── bar_plot.png 
 └── LICENSE
