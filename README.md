@@ -19,9 +19,8 @@ emissions-dashboard/
 ├── sample_data.csv 
 ├── media/ 
 │ ├── map_visualization.png 
-│ ├── scatter_plot.png │ 
-├── donut_chart.png 
-│ └── bar_chart.png 
+│ ├── scatter_plot.png
+│ └── bar_plot.png 
 └── LICENSE
 
 ```
